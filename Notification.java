@@ -17,4 +17,8 @@ public class Notification{
         return recipient;
     }
 
+    public void sayHi(){
+        System.out.println("hello hi");
+    }
+
 }
