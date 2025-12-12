@@ -18,7 +18,7 @@ public class Notification{
     }
 
     public void sayHi(){
-        System.out.println("hello hi");
+        System.out.println("hello");
     }
 
 }
